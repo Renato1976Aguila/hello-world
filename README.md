@@ -1,3 +1,3 @@
 # hello-world
-1.Iniciando
+Inicia
 Cronacion de main 
